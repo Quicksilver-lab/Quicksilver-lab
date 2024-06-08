@@ -1,8 +1,8 @@
 # Hi 👋, I'm QuickSilver!
 
 <p align="center">  
-  <a href="https://raw.githubusercontent.com/Quicksilver-lab/Quicksilver-lab/main/Quick.jpeg">
-    <img alt="QuickSilver" height="300" src="https://github.com/Quick.jpeg">
+  <a href="https://github.com/Quicksilver-lab">
+    <img alt="QuickSilver" height="300" src="https://raw.githubusercontent.com/Quicksilver-lab/Quicksilver-lab/main/Quick.jpeg">
   </a>
 </p>
 <p align="center">
