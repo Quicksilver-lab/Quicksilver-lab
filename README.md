@@ -1,8 +1,8 @@
 # Hi 👋, I'm QuickSilver!
 
 <p align="center">  
-  <a href="https://github.com/ahmmikun">
-    <img alt="Salman Ahmad" height="300" src="https://github.com/quick.png">
+  <a href="https://github.com/Quicksilver-lab">
+    <img alt="QuickSilver" height="300" src="https://github.com/quick.png">
   </a>
 </p>
 <p align="center">
