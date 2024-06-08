@@ -2,7 +2,7 @@
 
 <p align="center">  
   <a href="https://raw.githubusercontent.com/Quicksilver-lab/Quicksilver-lab/fab446fe25e1f929451cab370460d3450626403d/file(1).jpeg">
-    <img alt="QuickSilver" height="300" src="https://github.com/quick.png">
+    <img alt="QuickSilver" height="300" src="https://github.com/Quick.jpeg">
   </a>
 </p>
 <p align="center">
