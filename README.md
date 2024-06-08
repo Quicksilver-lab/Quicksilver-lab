@@ -6,15 +6,11 @@
 
 <p align="center">
 	<img src="/assets/animation.gif" alt="Banner">
+</p>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/Quicksilver-lab/count.svg" />
 </p>
-<a href="https://holopin.io/@king04aman">
-    <img src="https://holopin.io/api/user/board?user=Quicksilver-lab" />
-</a>
-</p>
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/quicksilver437)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sadaa_codes) 
 
 ## <p align="center">
@@ -127,4 +123,4 @@
 </a>
 </p>
 
-![Aman Kumar](/assets/footer.svg)
+![QuickSilver](/assets/footer.svg)
