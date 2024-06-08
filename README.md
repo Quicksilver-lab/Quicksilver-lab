@@ -1,14 +1,10 @@
+# Hi 👋, I'm QuickSilver!
+
 <div align="center" style="padding: 20px;">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bb9af7&center=true&vCenter=true&lines=Hello+World!;Keep+it+simple.;Stay+curious!;Learn+everyday.;Code+with+passion.;Dream+big.+Start+small.;Make+it+happen.;Stay+positive!;&center=true&vCenter=true&size=30&speed=50)](https://git.io/typing-svg)
 
 </div>
-
-
-
-
-
-# Hi 👋, I'm QuickSilver!
 
 <p align="center">  
   <a href="https://github.com/Quicksilver-lab">
