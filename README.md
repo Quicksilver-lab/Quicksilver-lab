@@ -88,12 +88,7 @@
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quicksilver-lab&theme=github_dark" />
     <img src="https://github-readme-stats.vercel.app/api?username=Quicksilver-lab&show_icons=true&theme=github_dark&hide_border=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=king04aman&theme=github-dark-blue&hide_border=true" />
-<p>
-  <a>
-    <img src="https://activity-graph.herokuapp.com/graph?username=king04aman&theme=react-dark" />
-</a>
-</p>
-	
+
 <p  align="center">
 <img src="/assets/line.gif">             
 </p>
