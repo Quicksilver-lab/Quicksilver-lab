@@ -1,3 +1,10 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bb9af7&center=true&vCenter=true&lines=Code+like+the+wind,+but+with+less+bugs.;👑+In+the+kingdom+of+code,+the+developer+is+king.;Keep+calm+and+commit+often.;🔄+May+your+merges+be+conflict-free+and+your+tests+be+passing.;🍽️+Don't+forget+to+feed+your+commits,+they+thrive+on+regular+updates.;🐛+Embrace+the+bugs,+for+they+shall+teach+you+the+ways+of+resilience.;💻+Syntax+errors+are+the+spice+of+life+for+a+programmer.;🔍+If+debugging+is+the+process+of+removing+software+bugs,+then+programming+must+be+the+process+of+putting+them+in.;🧼+Keep+your+code+clean,+your+tests+green,+and+your+coffee+strong.;In+the+world+of+coding,+every+semicolon+matters.)](https://git.io/typing-svg)
+
+</div>
+
+
 # Hi 👋, I'm QuickSilver!
 
 <p align="center">  
