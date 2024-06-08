@@ -55,6 +55,9 @@
 **Everyone thinks that i'm a professional ...But In Fact I Am A Begginer 😂**
 ---
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
 ### 🗼 How To Reach Me :
 <p align="center">
 <a href="http://Wa.me/923261006241">
@@ -79,15 +82,12 @@
 <p align="center"><a href="https://github.com/Quicksilver-lab"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=USMANRANGREZ&theme=dark&hide_border=false"></a></p> <br/>
 <p align="center"><a href="https://github.com/Quicksilver-lab"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quicksilver-lab&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></a></p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gaearon=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Quicksilver-lab&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Quicksilver-lab=darkhub&no-frame=false&no-bg=false&margin-w=4)
 <!--
 **Quicksilver-lab/Quicksilver-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
