@@ -72,7 +72,7 @@
 # 📊 GitHub Stats:
 
 <p align="center"><a href="https://github.com/Quicksilver-lab/followers"><img title="Followers" src="https://img.shields.io/github/followers/Quicksilver-lab?color=red&style=flat-square"></a></p>
-<p align="center"><a href="https://komarev.com/ghpvc/?username=Quicksilver-lab&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=ahmmikun&color=green&style=flat-square&label=Profile+View"></a>
+<p align="center"><a href="https://komarev.com/ghpvc/?username=Quicksilver-lab&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=gaearon&color=green&style=flat-square&label=Profile+View"></a>
 </p>
 
 <p align="center"><a href="https://github.com/Quicksilver-lab"> <img src="https://github-readme-stats.vercel.app/api?username=Quicksilver-lab&theme=dark&hide_border=false&include_all_commits=true&count_private=true"></a></p> <br/>
