@@ -70,7 +70,7 @@
 </p>
 
 <p align="center"><a href="https://github.com/Quicksilver-lab"> <img src="https://github-readme-stats.vercel.app/api?username=Quicksilver-lab&theme=dark&hide_border=false&include_all_commits=true&count_private=true"></a></p> <br/>
-<p align="center"><a href="https://github.com/Quicksilver-lab"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quicksilver-lab&theme=dark&hide_border=false"></a></p> <br/>
+<p align="center"><a href="https://github.com/Quicksilver-lab"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=USMANRANGREZ&theme=dark&hide_border=false"></a></p> <br/>
 <p align="center"><a href="https://github.com/Quicksilver-lab"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quicksilver-lab&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></a></p>
 
 ## 🏆 GitHub Trophies
