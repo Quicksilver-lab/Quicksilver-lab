@@ -11,6 +11,7 @@
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/Quicksilver-lab/count.svg" />
 </p>
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/quicksilver437)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sadaa_codes) 
 
 ## <p align="center">
@@ -38,6 +39,9 @@
   <img src="/assets/tools.png">             
 </p>
 
+<p  align="center">
+<img src="/assets/line.gif">
+</p>
 ### 💻 &nbsp;Languages:
 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=00599C)&nbsp;
@@ -49,6 +53,9 @@
 ![HTML](https://img.shields.io/badge/-Html-05122A?style=flat&logo=html)&nbsp;
 ![CSS](https://img.shields.io/badge/-Css-05122A?style=flat&logo=css)&nbsp;
 
+<p  align="center">
+<img src="/assets/line.gif">
+</p>
 ### 🚀 &nbsp;Technologies:
 
 ![ReactJs](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -75,9 +82,23 @@
 
 <p align="center">
   <a href="https://github.com/king04aman">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quicksilver-lab&theme=github_dark" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quicksilver-lab&theme=github_dark" /> 
+	  </p>
+	  <p  align="center">
+<img src="/assets/line.gif">
+</p>
+
+   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Quicksilver-lab&show_icons=true&theme=github_dark&hide_border=true" />
+	  </p>
+	  
+<p align="center">
+<img src="/assets/line.gif">
+</p>
+
+<p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=king04aman&theme=github-dark-blue&hide_border=true" />
+</p>
 
 <p  align="center">
 <img src="/assets/line.gif">             
