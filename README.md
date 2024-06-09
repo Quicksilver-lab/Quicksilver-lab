@@ -74,12 +74,6 @@
 # 📈 Statistics 📈
 
 <p align="center">
-<a href="https://leetcode.com/king04aman">
-<img width="40%" src="https://leetcode.card.workers.dev/king04aman?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
-</a>
-</p>
-
-<p align="center">
   <a href="https://github.com/king04aman">
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quicksilver-lab&theme=github_dark" />
     <img src="https://github-readme-stats.vercel.app/api?username=Quicksilver-lab&show_icons=true&theme=github_dark&hide_border=true" />
