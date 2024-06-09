@@ -107,10 +107,10 @@
 <!-- TODO: Update Repos -->
 ## 📕 Pinned Repositories
 <div align="center">
-<a href="https://github.com/Quicksilver-lab/">
+<a href="https://github.com/Quicksilver-lab/Random-Password-Gen/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Quicksilver-lab&repo=Random-Password-Gen&show_icons=true&theme=tokyonight" />
 </a> &nbsp;&nbsp;
-<a href="https://github.com/Quicksilver-lab/">
+<a href="https://github.com/Quicksilver-lab/BookMark">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Quicksilver-lab&repo=BookMark&show_icons=true&theme=tokyonight" />
 </a><br/>
 	
@@ -118,10 +118,10 @@
 <img src="/assets/line.gif">             
 </p>
  
-<a href="https://github.com/Quicksilver-lab/">
+<a href="https://github.com/Quicksilver-lab/Samurai-Fighter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Quicksilver-lab&repo=Samurai-Fighter&show_icons=true&theme=tokyonight" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/Quicksilver-lab/">
+<a href="https://github.com/Quicksilver-lab/Ludo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Quicksilver-lab&repo=Ludo&show_icons=true&theme=tokyonight" />
 </a><br/>
 
@@ -129,11 +129,11 @@
 <img src="/assets/line.gif">             
 </p>
 
-<a href="https://github.com/Quicksilver-lab/">
+<a href="https://github.com/Quicksilver-lab/Weather-Forcast">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Quicksilver-lab&repo=Weather-Forcast&show_icons=true&theme=tokyonight" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/Quicksilver-lab/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Quicksilver-lab&repo=Ludo&show_icons=true&theme=tokyonight" />
+<a href="https://github.com/Quicksilver-lab/Average-Calculator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Quicksilver-lab&repo=Average-Calculator&show_icons=true&theme=tokyonight" />
 </a><br/>
 </div> 
 
