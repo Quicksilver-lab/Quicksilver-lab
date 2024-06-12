@@ -1,6 +1,7 @@
 <div align="center" style="padding: 20px;">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bb9af7&center=true&vCenter=true&lines=Hello+World!;Keep+it+simple.;Stay+curious!;Learn+everyday.;Code+with+passion.;Dream+big.+Start+small.;Make+it+happen.;Stay+positive!;&center=true&vCenter=true&size=30&speed=50)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bb9af7&center=true&vCenter=true&lines=Hello+World!;Keep+it+simple.;Stay+curious!;Learn+everyday.;Code+with+passion.;Dream+big.+Start+small.;Make+it+happen.;Stay+positive!;Coding+is+life.;Embrace+the+bugs.;Think.+Code.+Repeat.;Crafting+digital+worlds.;Debugging+is+learning.;Coding+dreamer.;Pixel+by+pixel,+line+by+line.;Hack+the+planet!;Innovate+and+iterate.;Logic+is+the+language.;Unlocking+potential+through+code.;Bytes+of+brilliance.;Art+of+algorithms.;Create,+code,+conquer!;Coding+is+poetry+in+motion.;Ctrl+C,+Ctrl+V,+Ctrl+Success!;From+ideas+to+implementation.;Endless+possibilities+in+code.;Coding+unlocks+doors+to+imagination.;Dream+it,+code+it,+build+it.;Crafting+the+digital+future.;Coding+is+my+superpower.;In+the+realm+of+bits+and+bytes.;Algorithm+architect.;Unleashing+creativity+through+code.;Binary+thoughts,+limitless+visions.;Code+is+my+canvas.;Creating+tomorrow+today.;Passionate+about+programming.;Breaking+the+code+barriers.;Crafting+digital+masterpieces.;In+code,+we+trust.;Finding+beauty+in+logic.;])](https://git.io/typing-svg)
+
 
 </div>
 
