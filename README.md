@@ -16,18 +16,28 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/quicksilver437)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sadaa_codes) 
 
 ## <p align="center">
-<h4 align="center"><samp>A Software Developer, an Open-Source Contributor, Cloud Engineer and a Cyber-Security enthusiast </samp></h4></p>
+<h4 align="center"><samp>A Web Developer and Cybersecurity Enthusiast with a passion for continuous learning and hands-on experience in various tech fields </samp></h4></p>
+
+<h3> Skills</h3>
+
+- **Web Development**:
+  - 🌐 HTML, CSS, JavaScript
+  - 🛠️ WordPress Development
+  - 🖥️ Responsive Design & SEO Optimization
 
 <div>
 <img align="right" src="/assets/coder.gif" width="40%"/>
   <br>
 
-<h3><b><samp>Experiences:</samp></b></h3>
-- ☁  <b>Amazon Web Services Virtual Cloud Intern (July, 2022 - Sep, 2022) <b><br>
-- 🕵🏻 <b>Software Engineer Intern at Modelling Cops (July, 2021 - Dec, 2021) </b><br>
-- 💬 <b>Ask me about DSA/Cloud Computing/Cloud Architecture/Cyber Security</b><br>
-- 🤔 <b>I’m looking for help with how to excel in Cyber-Security</b><br>
-</div>
+- **Cybersecurity**:
+  - 🔒 Security Best Practices
+  - 🕵️‍♂️ Vulnerability Assessment
+  - ⚙️ Ethical Hacking Techniques
+
+- **Project Management**:
+  - 📈 Product Listing & Management
+  - 🗂️ Data Optimization
+  - 🛠️ E-commerce Solutions
 
 <p align="center">
   <img src="/assets/snake.svg">             
