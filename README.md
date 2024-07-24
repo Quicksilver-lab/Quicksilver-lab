@@ -82,7 +82,7 @@
 # 📈 Statistics 📈
 
 <p align="center">
-  <a href="https://github.com/king04aman">
+  <a href="https://github.com/Quicksilver-lab">
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quicksilver-lab&theme=github_dark" /> 
 	  </p>
 	  <p  align="center">
@@ -136,7 +136,7 @@
 
 ## 🏆 GitHub Trophy:
 <p align="center">
-<a href="https://github.com/ryo/">
+<a href="https://github.com/Quicksilver-lab/">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia"/>
 </a>
 </p>
