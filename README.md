@@ -89,14 +89,6 @@
 <img src="/assets/line.gif">
 </p>
 
-   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Quicksilver-lab&show_icons=true&theme=github_dark&hide_border=true" />
-	  </p>
-	  
-<p align="center">
-<img src="/assets/line.gif">
-</p>
-
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quicksilver-lab&theme=github-dark-blue&hide_border=true" />
 </p>
@@ -144,8 +136,8 @@
 
 ## 🏆 GitHub Trophy:
 <p align="center">
-<a href="https://github.com/king04aman/">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=king04aman&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+<a href="https://github.com/ryo/">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia"/>
 </a>
 </p>
 
