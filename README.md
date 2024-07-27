@@ -103,6 +103,13 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quicksilver-lab&theme=github-dark-blue&hide_border=true" />
 </p>
 
+<div align="center">
+	
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quicksilver-lab&layout=compact&theme=dark&langs_count=8)
+    
+</div>
+
+
 <p  align="center">
 <img src="/assets/line.gif">             
 </p>
@@ -130,18 +137,6 @@
 
 <p  align="center">
 <img src="/assets/line.gif">             
-</p>
-
-<a href="https://github.com/Quicksilver-lab/Weather-Forcast">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Quicksilver-lab&repo=Weather-Forcast&show_icons=true&theme=tokyonight" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/Quicksilver-lab/Average-Calculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Quicksilver-lab&repo=Average-Calculator&show_icons=true&theme=tokyonight" />
-</a><br/>
-</div> 
-
-<p  align="center">
-<img src="/assets/line.gif">
 </p>
 
 ## 🏆 GitHub Trophy:
