@@ -114,31 +114,6 @@
 <img src="/assets/line.gif">             
 </p>
 
-<!-- TODO: Update Repos -->
-## 📕 Pinned Repositories
-<div align="center">
-<a href="https://github.com/Quicksilver-lab/Random-Password-Gen/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Quicksilver-lab&repo=Random-Password-Gen&show_icons=true&theme=tokyonight" />
-</a> &nbsp;&nbsp;
-<a href="https://github.com/Quicksilver-lab/BookMark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Quicksilver-lab&repo=BookMark&show_icons=true&theme=tokyonight" />
-</a><br/>
-	
-<p  align="center">
-<img src="/assets/line.gif">             
-</p>
- 
-<a href="https://github.com/Quicksilver-lab/Samurai-Fighter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Quicksilver-lab&repo=Samurai-Fighter&show_icons=true&theme=tokyonight" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/Quicksilver-lab/Ludo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Quicksilver-lab&repo=Ludo&show_icons=true&theme=tokyonight" />
-</a><br/>
-
-<p  align="center">
-<img src="/assets/line.gif">             
-</p>
-
 ## 🏆 GitHub Trophy:
 <p align="center">
 <a href="https://github.com/Quicksilver-lab/">
