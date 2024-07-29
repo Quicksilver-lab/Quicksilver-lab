@@ -47,6 +47,43 @@ header nav ul li a {
     font-weight: bold;
 }
 
+/* Hamburger Menu Styles */
+.hamburger {
+    display: none;
+    flex-direction: column;
+    cursor: pointer;
+}
+
+.hamburger div {
+    width: 25px;
+    height: 3px;
+    background-color: white;
+    margin: 5px 0;
+    transition: all 0.3s;
+}
+
+@media screen and (max-width: 768px) {
+    .hamburger {
+        display: flex;
+    }
+
+    nav ul {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+        text-align: center;
+        background-color: #182848;
+    }
+
+    nav ul.show {
+        display: flex;
+    }
+
+    nav ul li {
+        margin: 10px 0;
+    }
+}
+
 .section {
     padding: 60px 20px;
 }
@@ -268,12 +305,18 @@ footer .social-icons a {
         align-items: center;
     }
 
-    header nav ul {
+    nav ul {
         flex-direction: column;
-        align-items: center;
+        width: 100%;
+        text-align: center;
+        background-color: #182848;
     }
 
-    header nav ul li {
+    nav ul.show {
+        display: flex;
+    }
+
+    nav ul li {
         margin: 10px 0;
     }
 
@@ -325,12 +368,7 @@ footer .social-icons a {
         height: 40px;
     }
 
-    header nav ul {
-        flex-direction: column;
-        align-items: center;
-    }
-
-    header nav ul li {
+    nav ul li {
         margin: 5px 0;
     }
 
