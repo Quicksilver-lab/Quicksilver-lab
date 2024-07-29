@@ -11,3 +11,8 @@ function showSlides() {
     slides[slideIndex-1].style.display = "block";  
     setTimeout(showSlides, 4000); // Change image every 4 seconds
 }
+
+function toggleMenu() {
+    const nav = document.querySelector('header nav ul');
+    nav.classList.toggle('show');
+}
