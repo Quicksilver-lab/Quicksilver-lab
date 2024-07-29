@@ -95,6 +95,7 @@ footer .social-icons a {
     align-items: center;
     text-align: center;
     color: white;
+    position: relative;
 }
 
 .landing h2 {
@@ -107,29 +108,42 @@ footer .social-icons a {
 }
 
 .slider {
-    max-width: 600px;
+    max-width: 80%;
     margin: 20px auto;
     overflow: hidden;
     position: relative;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 .slide {
     display: none;
+    width: 100%;
 }
 
-.fade {
-    animation-name: fade;
-    animation-duration: 1.5s;
+.slide img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.active {
+    display: block;
 }
 
 @keyframes fade {
-    from { opacity: .4 }
+    from { opacity: 0.4 }
     to { opacity: 1 }
+}
+
+.slider .active {
+    animation: fade 1.5s;
 }
 
 /* Stats Section */
 .stats {
     background: #fff;
+    padding: 60px 0;
 }
 
 .stats-grid {
@@ -238,4 +252,41 @@ footer .social-icons a {
 
 .contact-item p {
     font-size: 1.2em;
+}
+
+/* Responsive Styles */
+@media screen and (max-width: 768px) {
+    header .container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    header nav ul {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    header nav ul li {
+        margin: 10px 0;
+    }
+
+    .stats-grid {
+        flex-direction: column;
+    }
+
+    .stat {
+        margin: 20px auto;
+    }
+
+    .slider {
+        max-width: 90%;
+    }
+
+    .landing h2 {
+        font-size: 2em;
+    }
+
+    .landing p {
+        font-size: 1.2em;
+    }
 }
