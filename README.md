@@ -13,8 +13,9 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/Quicksilver-lab/count.svg" />
 </p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/quicksilver437)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sadaa_codes) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/quicksilver437)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=portfolio&logoColor=white)](https://quicksilver-lab.github.io/Quicksilver-lab/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sadaa_codes) 
 
 ## <p align="center">
 <h4 align="center"><samp>A Web Developer and Cybersecurity Enthusiast with a passion for continuous learning and hands-on experience in various tech fields </samp></h4></p>
