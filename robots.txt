@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /private/
+
+Sitemap: https://quicksilver-lab.github.io/Quicksilver-lab/sitemap.xml
