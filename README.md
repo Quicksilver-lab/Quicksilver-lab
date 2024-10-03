@@ -24,10 +24,10 @@
 ## <p align="center">
 <h4 align="center"><samp>A Web Developer and Cybersecurity Enthusiast with a passion for continuous learning and hands-on experience in various tech fields </samp></h4></p>
 
-<h3> Skills</h3>
+## Skills
 
 - **Web Development**:
-  - 🌐 HTML, CSS, JavaScript
+  - 🌐 HTML, CSS, JavaScript, Node.js, React
   - 🛠️ WordPress Development
   - 🖥️ Responsive Design & SEO Optimization
 
@@ -39,16 +39,19 @@
   - 🔒 Security Best Practices
   - 🕵️‍♂️ Vulnerability Assessment
   - ⚙️ Ethical Hacking Techniques
+  - 🛡️ Ethical Hacking Toolkit Development
 
 - **Project Management**:
   - 📈 Product Listing & Management
   - 🗂️ Data Optimization
   - 🛠️ E-commerce Solutions
+  - 📊 Real-time Traffic Monitoring
 
 <p align="center">
   <img src="/assets/snake.svg">             
   <img src="/assets/line.gif">             
 </p>
+</div>
 
 ## 🛠 &nbsp;Tech Stack:
 
