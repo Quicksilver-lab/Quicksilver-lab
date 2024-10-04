@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="keywords" content="">
+	<meta name="description" content="Day 1 of My Accidental 95% Survival Challenge">
+	<title>QuickSilver - 95% Challenge Day 1</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/animate.min.css">
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/ionicons.min.css">
+	<link rel="stylesheet" href="css/style.css">
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,300' rel='stylesheet' type='text/css'>
+</head>
+<body>
+
+<div class="preloader">
+	<div class="sk-spinner sk-spinner-pulse"></div>
+</div>
+
+<div class="nav-container">
+   <nav class="nav-inner transparent">
+      <div class="navbar">
+         <div class="container">
+            <div class="row">
+              <div class="brand">
+                <a href="index.html">QuickSilver</a>
+              </div>
+              <div class="navicon">
+                <div class="menu-container">
+                  <div class="circle dark inline">
+                    <i class="icon ion-navicon"></i>
+                  </div>
+                  <div class="list-menu">
+                    <i class="icon ion-close-round close-iframe"></i>
+                    <div class="intro-inner">
+                     	<ul id="nav-menu">
+                         <li><a href="index.html">Home</a></li>
+                       	 <li><a href="about.html">About</a></li>
+                       	 <li><a href="blog.html">Blog</a></li>
+                       	 <li><a href="contact.html">Contact</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+         </div>
+      </div>
+   </nav>
+</div>
+
+<section id="header" class="header-five">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-offset-3 col-md-6 col-sm-offset-2 col-sm-8">
+          <div class="header-thumb">
+              <h1 class="wow fadeIn" data-wow-delay="0.6s">My Accidental 95% Survival Challenge</h1>
+              <h3 class="wow fadeInUp" data-wow-delay="0.9s">Day 1</h3>
+          </div>
+			</div>
+		</div>
+	</div>		
+</section>
+
+<section id="single-post">
+   <div class="container">
+      <div class="row">
+         <div class="wow fadeInUp col-md-offset-1 col-md-10 col-sm-offset-1 col-sm-10" data-wow-delay="1.3s">
+         	  <div class="blog-thumb">
+         		   <h1>The First Day of the Competition: My Epic Start</h1>
+         			    <div class="post-format">
+						        <span>By <a href="https://github.com/Quicksilver-lab">QuickSilver</a></span>
+						        <span><i class="fa fa-date"></i> 3 October 2024, Thursday</span>
+					       </div>
+         		   <p>
+            October 1st marked the official start of our academic showdown. The first competition was supposed to be Math, but our legendary teacher knew we weren't quite... prepared. So, he did us a massive favor and postponed it to the last day. You can imagine my joy. I mean, I am that guy who wouldn't mind a little more time before facing numbers.
+        </p>
+        <p>
+            Fast forward to Thursday, October 3rd—our first real day of battle, and the subject? Computer Science. Now, this is where I shine. I'm the tech guy, the code king. Excited doesn’t even cover it. I went full prep mode: a trip to the hair salon for a fresh cut, trimmed my "little little" beard, and emerged looking like a solid 10/10. Dressed like a pro student, ready to conquer the day, I added my secret weapons—artificial glasses (instant genius points), a slick black ring, and a black watch. Confidence level: 1000%.
+        </p>
+        <p>
+            In a true plot twist, I managed to break my personal world record of lateness... by arriving 2 minutes early! I strolled in, only to be met with my classmates’ laughter. "Bro, we’re supposed to prep for the competition, not a fashion show!" they joked. But I was unfazed. Today was my day, and I was walking on sunshine.
+        </p>
+        <p>
+            As I entered through the front door, the Head Teacher and Principal were talking in the corridor. I don't know what deep, important conversation they were having, but as soon as they spotted me, it went completely silent. Yep, they just stared as I walked past. Must’ve been the glasses, or maybe the ring?
+        </p>
+        <p>
+            Inside the classroom, I was greeted with cheers from my bros, followed by some bro hugs. There was a crowd, so I took the chance to head outside. You know, a little fresh air never hurt. Plus, being somewhat friendly with the principal gives me that VIP access to roam around. But don’t worry, it's only for "educational purposes."
+        </p>
+        <p>
+            The book nerds? They were scattered around in every corner, neck-deep in textbooks. Me? I was chilling, casually reading a few definitions, enjoying the calm before the coding storm.
+        </p>
+        <p>
+            At 6 PM, the competition began. We were all seated, and then it hit me. No computers, no text editors, no compilers—just paper and pens. "So, this is happening," I thought. But hey, who needs fancy tech? Building stuff with available resources is the real test of genius. So, I grabbed my pen (aka the 2000s keyboard) and started writing out C programs like they were birthday wishes.
+        </p>
+        <p>
+            While others were scratching their heads, trying to figure out where their imaginary syntax errors were, I was on a roll. Some guys were still trying to remember which header files to use, while a few were chasing outputs like they were playing tag with their code. I finished everything a solid half hour early. The only downside? My handwriting. As someone who’s used to beautiful digital fonts, let’s just say, my handwriting left a lot to be desired.
+        </p>
+        <p>
+            But I had a plan. Right at the end, I used the C language comment syntax (//) and wrote, "Please Cooperate with the Handwriting Because Fonts are not available." Genius move, right? Just like a compiler ignores comments, I hoped the teacher would "ignore" my messy script. Let’s see if they take the hint or "execute" those deductions.
+        </p>
+        <p>
+            That wraps up Day 1. The next competition is on October 5th, and the subject is English. Wish me luck—Math, Physics, and Chemistry are still lurking on the horizon!
+        </p>
+               
+               <div class="blog-comment">
+                 <h3>Comments</h3>
+                    <div class="media">
+                        <div class="media-object pull-left">
+                            <img src="https://1.gravatar.com/avatar/78277c342f13c3b93b62f464bfa1557845a3ef00804fefb86bf9addf098cabde?s=40&d=identicon&r=G" class="img-responsive" alt="blog">
+                       </div>
+                      <div class="media-body">
+                        <h4 class="media-heading">khalilsaminu99</h4>
+                        <h5>September 25, 2024</h5>
+                        <p>bro that was crazy 🤪 <br>I love it 😀 😍 ❤️</p>
+                      </div>
+                    </div>
+                    <div class="media">
+                        <div class="media-object pull-left">
+                            <img src="https://2.gravatar.com/avatar/b8617454ddf18cdc42bac561dcf25d3edb7c7ba5aae5caf68077b69b6df64ce0?s=40&d=identicon&r=G" class="img-responsive" alt="blog">
+                       </div>
+                      <div class="media-body">
+                        <h4 class="media-heading">Zubairali</h4>
+                        <h5>September 22, 2024</h5>
+                        <p>Very good and very nice 😊 <br>Quicksilver</p>
+                      </div>
+                    </div>
+               </div>
+
+               <div class="blog-comment-form">
+                  <h3>Leave a comment</h3>
+                    <form action="#" method="post">
+                      <input type="text" class="form-control" placeholder="Name" name="name" required>
+                      <input type="email" class="form-control" placeholder="Email" name="email" required>
+                      <textarea class="form-control" placeholder="Comment" rows="5" name="comment" required id="comment"></textarea>
+                      <div class="contact-submit">
+                      	<input name="submit" type="submit" class="form-control" id="submit" value="Submit a comment">
+                      </div>
+                   </form>
+               </div>
+         	  </div>
+		    </div>
+      </div>
+   </div>
+</section>
+
+<footer>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 col-sm-12">
+				<p class="wow fadeInUp" data-wow-delay="0.3s">Copyright © 2024 Quicksilver-lab - Designed by QuickSilver</p>
+				<ul class="social-icon wow fadeInUp" data-wow-delay="0.6s">
+					<li><a href="https://www.facebook.com/profile.php?id=61557572571826" class="fa fa-facebook"></a></li>
+					<li><a href="https://github.com/Quicksilver-lab" class="fa fa-github"></a></li>
+					<li><a href="https://www.instagram.com/king1011106/" class="fa fa-instagram"></a></li>
+					<li><a href="https://www.instagram.com/quicksilver437/" class="fa fa-instagram"></a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</footer>
+
+<script src="js/jquery.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/wow.min.js"></script>
+<script src="js/custom.js"></script>
+</body>
+</html>
